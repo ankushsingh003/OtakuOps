@@ -1,0 +1,29 @@
+# Data and Archive
+archive/
+artifacts/
+*.csv
+*.zip
+*.tar.gz
+*.7z
+
+# Environment
+env/
+venv/
+.env
+__pycache__/
+*.pyc
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+checkpoint/
+
+# Python packaging
+dist/
+build/
+*.egg-info/

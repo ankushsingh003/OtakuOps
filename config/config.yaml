@@ -1,0 +1,8 @@
+data_ingestion:
+    bucket_name: anime-recommendation-system
+    source_file_name:
+      - animme.csv
+      - anime_with_synopsis.csv
+      - animelist.csv
+    
+    
